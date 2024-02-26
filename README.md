@@ -18,8 +18,8 @@ Welcome to TeamPulse, the cutting-edge frontend interface of our Human Resources
 - **Scalable Architecture:** Designed with scalability in mind, ensuring smooth performance even as your business grows.
 - **Continuous Integration:** Integrated with Azure DevOps Portal for seamless deployment and continuous integration.
 
-- ## Getting Started
-- 
+## Getting Started
+
 Ready to experience the future of HR management? Follow these simple steps to set up TeamPulse frontend:
   
 1. **Clone the Repository:** Clone the frontend repository to your local machine.
