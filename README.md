@@ -19,9 +19,9 @@ Welcome to TeamPulse, the cutting-edge frontend interface of our Human Resources
 - **Continuous Integration:** Integrated with Azure DevOps Portal for seamless deployment and continuous integration.
 
 - ## Getting Started
- 
-- Ready to experience the future of HR management? Follow these simple steps to set up TeamPulse frontend:
 - 
+Ready to experience the future of HR management? Follow these simple steps to set up TeamPulse frontend:
+  
 1. **Clone the Repository:** Clone the frontend repository to your local machine.
 2. **Install Dependencies:** Navigate to the project directory and install the required packages.
 3. **Start the Development Server:** Launch the development server and start exploring the power of TeamPulse.
@@ -29,5 +29,7 @@ Welcome to TeamPulse, the cutting-edge frontend interface of our Human Resources
 ## Contributions Welcome
 
 We value collaboration and welcome contributions from the community! If you have any ideas for improvement, feature requests, or bug fixes, please feel free to open a pull request. Together, let's shape the future of HR management.
+
+## License
 
 TeamPulse is licensed under the MIT License. For more details, please refer to the [LICENSE](link) file.
